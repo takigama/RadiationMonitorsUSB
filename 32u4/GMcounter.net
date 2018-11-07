@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/paulr/owncloud.home/Electronics/GeigerTube/32u4/GMcounter.sch)
-    (date "Wed 07 Nov 2018 11:21:39 AEDT")
+    (date "Wed 07 Nov 2018 12:47:54 AEDT")
     (tool "Eeschema 4.0.2+dfsg1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -233,7 +233,7 @@
       (tstamp 5BE23669))
     (comp (ref Q4)
       (value CSTLA_T)
-      (footprint murata-resonators:murata-resonators-CSTLA_T)
+      (footprint MyKiCadLibs:Murata-16mhz-Resonator)
       (libsource (lib murata-resonators) (part CSTLA_T))
       (sheetpath (names /) (tstamps /))
       (tstamp 5BE238C4))

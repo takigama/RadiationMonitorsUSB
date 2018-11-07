@@ -871,7 +871,7 @@ U 1 1 5BE238C4
 P 9650 2200
 F 0 "Q4" H 9470 2330 50  0000 L BNN
 F 1 "CSTLA_T" V 9900 1850 50  0000 L BNN
-F 2 "murata-resonators:murata-resonators-CSTLA_T" H 9650 2350 50  0001 C CNN
+F 2 "MyKiCadLibs:Murata-16mhz-Resonator" H 9650 2350 50  0001 C CNN
 F 3 "" H 9650 2200 60  0000 C CNN
 	1    9650 2200
 	0    -1   -1   0   
