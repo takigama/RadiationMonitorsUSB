@@ -36,11 +36,11 @@ X Pin_9 9 300 100 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_+3.3V
+# GMcounter-rescue_+3.3V-GMcounter-rescue
 #
-DEF GMcounter-rescue_+3.3V #PWR 0 0 Y Y 1 F P
+DEF GMcounter-rescue_+3.3V-GMcounter-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "GMcounter-rescue_+3.3V" 0 140 50 H V C CNN
+F1 "GMcounter-rescue_+3.3V-GMcounter-rescue" 0 140 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
@@ -51,11 +51,11 @@ X +3V3 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_+5V
+# GMcounter-rescue_+5V-GMcounter-rescue
 #
-DEF GMcounter-rescue_+5V #PWR 0 0 Y Y 1 F P
+DEF GMcounter-rescue_+5V-GMcounter-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "GMcounter-rescue_+5V" 0 140 50 H V C CNN
+F1 "GMcounter-rescue_+5V-GMcounter-rescue" 0 140 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
@@ -66,11 +66,11 @@ X +5V 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_AP1117D33
+# GMcounter-rescue_AP1117D33-GMcounter-rescue
 #
-DEF GMcounter-rescue_AP1117D33 U 0 30 Y Y 1 F N
+DEF GMcounter-rescue_AP1117D33-GMcounter-rescue U 0 30 Y Y 1 F N
 F0 "U" 100 -250 50 H V C CNN
-F1 "GMcounter-rescue_AP1117D33" 0 250 50 H V C CNN
+F1 "GMcounter-rescue_AP1117D33-GMcounter-rescue" 0 250 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -88,11 +88,11 @@ X VI 3 -300 0 100 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_ATmega32U4
+# GMcounter-rescue_ATmega32U4-GMcounter-rescue
 #
-DEF GMcounter-rescue_ATmega32U4 U 0 40 Y Y 1 F N
+DEF GMcounter-rescue_ATmega32U4-GMcounter-rescue U 0 40 Y Y 1 F N
 F0 "U" -900 1700 50 H V C CNN
-F1 "GMcounter-rescue_ATmega32U4" -650 -1550 50 H V C CNN
+F1 "GMcounter-rescue_ATmega32U4-GMcounter-rescue" -650 -1550 50 H V C CNN
 F2 "" 1200 1100 50 H V C CNN
 F3 "" 1200 1100 50 H V C CNN
 $FPLIST
@@ -148,11 +148,11 @@ X (SCLK/PCINT1)PB1 9 1200 1450 300 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_BD249C
+# GMcounter-rescue_BD249C-GMcounter-rescue
 #
-DEF GMcounter-rescue_BD249C Q 0 0 Y Y 1 F N
+DEF GMcounter-rescue_BD249C-GMcounter-rescue Q 0 0 Y Y 1 F N
 F0 "Q" 250 75 50 H V L CNN
-F1 "GMcounter-rescue_BD249C" 250 0 50 H V L CNN
+F1 "GMcounter-rescue_BD249C-GMcounter-rescue" 250 0 50 H V L CNN
 F2 "SOT-93" 250 -75 50 H V L CIN
 F3 "" 0 0 50 H V L CNN
 $FPLIST
@@ -178,11 +178,11 @@ X E 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_C
+# GMcounter-rescue_C-GMcounter-rescue
 #
-DEF GMcounter-rescue_C C 0 10 N Y 1 F N
+DEF GMcounter-rescue_C-GMcounter-rescue C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "GMcounter-rescue_C" 25 -100 50 H V L CNN
+F1 "GMcounter-rescue_C-GMcounter-rescue" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -200,11 +200,11 @@ X ~ 2 0 -150 110 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_CONN_01X01
+# GMcounter-rescue_CONN_01X01-GMcounter-rescue
 #
-DEF GMcounter-rescue_CONN_01X01 P 0 40 Y N 1 F N
+DEF GMcounter-rescue_CONN_01X01-GMcounter-rescue P 0 40 Y N 1 F N
 F0 "P" 0 100 50 H V C CNN
-F1 "GMcounter-rescue_CONN_01X01" 100 0 50 V V C CNN
+F1 "GMcounter-rescue_CONN_01X01-GMcounter-rescue" 100 0 50 V V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -220,11 +220,11 @@ X P1 1 -200 0 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_CONN_01X03
+# GMcounter-rescue_CONN_01X03-GMcounter-rescue
 #
-DEF GMcounter-rescue_CONN_01X03 P 0 40 Y N 1 F N
+DEF GMcounter-rescue_CONN_01X03-GMcounter-rescue P 0 40 Y N 1 F N
 F0 "P" 0 200 50 H V C CNN
-F1 "GMcounter-rescue_CONN_01X03" 100 0 50 V V C CNN
+F1 "GMcounter-rescue_CONN_01X03-GMcounter-rescue" 100 0 50 V V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -244,11 +244,11 @@ X P3 3 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_CP
+# GMcounter-rescue_CP-GMcounter-rescue
 #
-DEF GMcounter-rescue_CP C 0 10 N Y 1 F N
+DEF GMcounter-rescue_CP-GMcounter-rescue C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "GMcounter-rescue_CP" 25 -100 50 H V L CNN
+F1 "GMcounter-rescue_CP-GMcounter-rescue" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -272,11 +272,11 @@ X ~ 2 0 -150 110 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_CSTLA_T
+# GMcounter-rescue_CSTLA_T-GMcounter-rescue
 #
-DEF GMcounter-rescue_CSTLA_T Q 0 40 Y Y 1 L N
+DEF GMcounter-rescue_CSTLA_T-GMcounter-rescue Q 0 40 Y Y 1 L N
 F0 "Q" -180 130 50 H V L BNN
-F1 "GMcounter-rescue_CSTLA_T" 70 130 50 H V L BNN
+F1 "GMcounter-rescue_CSTLA_T-GMcounter-rescue" 70 130 50 H V L BNN
 F2 "murata-resonators-CSTLA_T" 0 150 50 H I C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -323,11 +323,11 @@ X 3 3 200 0 0 L 40 40 1 1 I
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_D
+# GMcounter-rescue_D-GMcounter-rescue
 #
-DEF GMcounter-rescue_D D 0 40 N N 1 F N
+DEF GMcounter-rescue_D-GMcounter-rescue D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "GMcounter-rescue_D" 0 -100 50 H V C CNN
+F1 "GMcounter-rescue_D-GMcounter-rescue" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -345,11 +345,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_GND
+# GMcounter-rescue_GND-GMcounter-rescue
 #
-DEF GMcounter-rescue_GND #PWR 0 0 Y Y 1 F P
+DEF GMcounter-rescue_GND-GMcounter-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "GMcounter-rescue_GND" 0 -150 50 H V C CNN
+F1 "GMcounter-rescue_GND-GMcounter-rescue" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
@@ -358,11 +358,11 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_LED
+# GMcounter-rescue_LED-GMcounter-rescue
 #
-DEF GMcounter-rescue_LED D 0 40 Y N 1 F N
+DEF GMcounter-rescue_LED-GMcounter-rescue D 0 40 Y N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "GMcounter-rescue_LED" 0 -100 50 H V C CNN
+F1 "GMcounter-rescue_LED-GMcounter-rescue" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -384,11 +384,11 @@ X A 2 200 0 150 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_L_Small
+# GMcounter-rescue_L_Small-GMcounter-rescue
 #
-DEF GMcounter-rescue_L_Small L 0 10 N N 1 F N
+DEF GMcounter-rescue_L_Small-GMcounter-rescue L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
-F1 "GMcounter-rescue_L_Small" 30 -40 50 H V L CNN
+F1 "GMcounter-rescue_L_Small-GMcounter-rescue" 30 -40 50 H V L CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -405,11 +405,11 @@ X ~ 2 0 -100 20 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_MMBT3904
+# GMcounter-rescue_MMBT3904-GMcounter-rescue
 #
-DEF GMcounter-rescue_MMBT3904 Q 0 0 Y Y 1 F N
+DEF GMcounter-rescue_MMBT3904-GMcounter-rescue Q 0 0 Y Y 1 F N
 F0 "Q" 200 75 50 H V L CNN
-F1 "GMcounter-rescue_MMBT3904" 200 0 50 H V L CNN
+F1 "GMcounter-rescue_MMBT3904-GMcounter-rescue" 200 0 50 H V L CNN
 F2 "SOT-23" 200 -75 50 H V L CIN
 F3 "" 0 0 50 H V L CNN
 $FPLIST
@@ -428,11 +428,11 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_POT
+# GMcounter-rescue_POT-GMcounter-rescue
 #
-DEF GMcounter-rescue_POT RV 0 40 Y N 1 F N
+DEF GMcounter-rescue_POT-GMcounter-rescue RV 0 40 Y N 1 F N
 F0 "RV" 0 -80 50 H V C CNN
-F1 "GMcounter-rescue_POT" 0 0 50 H V C CNN
+F1 "GMcounter-rescue_POT-GMcounter-rescue" 0 0 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
@@ -444,11 +444,11 @@ X 3 3 150 0 50 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_R
+# GMcounter-rescue_R-GMcounter-rescue
 #
-DEF GMcounter-rescue_R R 0 0 N Y 1 F N
+DEF GMcounter-rescue_R-GMcounter-rescue R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "GMcounter-rescue_R" 0 0 50 V V C CNN
+F1 "GMcounter-rescue_R-GMcounter-rescue" 0 0 50 V V C CNN
 F2 "" -70 0 50 V V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -462,11 +462,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_TLC555CP
+# GMcounter-rescue_TLC555CP-GMcounter-rescue
 #
-DEF GMcounter-rescue_TLC555CP U 0 20 Y Y 1 F N
+DEF GMcounter-rescue_TLC555CP-GMcounter-rescue U 0 20 Y Y 1 F N
 F0 "U" -400 350 50 H V L CNN
-F1 "GMcounter-rescue_TLC555CP" 100 350 50 H V L CNN
+F1 "GMcounter-rescue_TLC555CP-GMcounter-rescue" 100 350 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -488,11 +488,11 @@ X DIS 7 500 0 150 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# GMcounter-rescue_USB_A
+# GMcounter-rescue_USB_A-GMcounter-rescue
 #
-DEF GMcounter-rescue_USB_A P 0 40 Y Y 1 F N
+DEF GMcounter-rescue_USB_A-GMcounter-rescue P 0 40 Y Y 1 F N
 F0 "P" 200 -200 50 H V C CNN
-F1 "GMcounter-rescue_USB_A" -50 200 50 H V C CNN
+F1 "GMcounter-rescue_USB_A-GMcounter-rescue" -50 200 50 H V C CNN
 F2 "" -50 -100 50 V V C CNN
 F3 "" -50 -100 50 V V C CNN
 $FPLIST
