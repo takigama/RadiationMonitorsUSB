@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pindiode-rescue)(type Legacy)(uri ${KIPRJMOD}/pindiode-rescue.lib)(options "")(descr ""))
+)
