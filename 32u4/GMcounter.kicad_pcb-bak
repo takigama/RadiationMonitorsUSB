@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 9)
+    (drawings 10)
     (tracks 550)
     (zones 0)
     (modules 45)
@@ -11,8 +11,8 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal hide)
-    (31 B.Cu signal hide)
+    (0 F.Cu signal)
+    (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -2025,6 +2025,9 @@
       (net 27 "Net-(L1-Pad2)"))
   )
 
+  (gr_text "Based on MightOhm's\nGeiger" (at 155.194 75.946) (layer B.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
   (gr_text "GMCounter 32u4\nTakigama@github" (at 90.932 59.182) (layer B.SilkS)
     (effects (font (size 2.5 2.5) (thickness 0.3)) (justify mirror))
   )
@@ -2614,7 +2617,7 @@
   (segment (start 137.557 77.7687) (end 137.9018 77.4239) (width 0.25) (layer B.Cu) (net 55))
   (via (at 137.9018 77.4239) (size 0.6) (layers F.Cu B.Cu) (net 55))
 
-  (zone (net 4) (net_name "Net-(C3-Pad1)") (layer F.Cu) (tstamp 5C0B348F) (hatch edge 0.508)
+  (zone (net 4) (net_name "Net-(C3-Pad1)") (layer F.Cu) (tstamp 5BFC7AF0) (hatch edge 0.508)
     (connect_pads yes (clearance 0.5))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -2645,7 +2648,7 @@
       )
     )
   )
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5BFC7AED) (hatch edge 0.508)
     (connect_pads yes (clearance 0.5))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
